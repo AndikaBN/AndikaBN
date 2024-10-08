@@ -9,7 +9,7 @@
   <a href="https://www.mysql.com/"><img align="left" alt="Mysql" title="Mysql" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.php.net"><img align="left" alt="PHP" title="PHP" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /></a>
   <a href="https://www.python.org"><img align="left" alt="Python" title="Python" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /></a>
-
+<br>
 <p align="left">
 <a href="https://github.com/AndikaBN">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikabn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
